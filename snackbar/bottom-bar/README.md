@@ -2,8 +2,6 @@
 
 Learn about the [bottom bar here](https://material.io/design/components/bottom-navigation.html)
 
-[Example / Walkthrough](./bottom-bar/README.md)
-
 ## Fields
 
 ### Titles [separated by ',']
@@ -20,3 +18,5 @@ Tint to apply coloring to active title and icon item. Color picker is shown when
 
 ### Color for bar background
 Set the background color for the bar. Color picker is shown when you select this field.
+
+## Example
