@@ -22,4 +22,4 @@ Nick Mowen - <nick@nicknackdevelopment.com>
 Any contributions are welcome! Make a pull request with what you have added / changed and I will let you know if any changes need to be made.
 
 # Donations
-If you would like to donate / contribute to future development, you can [paypal me here](paypal.me/nickmowen)
+If you would like to donate / contribute to future development, you can [paypal me here](https://paypal.me/nickmowen)
