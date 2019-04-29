@@ -1,7 +1,5 @@
 # Nick Nack Tasker Plugin Docs
 
-# [Nick Nack Development Website](https://www.nicknackdevelopment.com/)
-
 Over the years our Tasker plugins have grown and become quite popular. But one complaint that has kept coming up is that the plugins have a learning curve and documentation / tutorials would be very useful. So here is the full documentation for all plugins and actions developed by Nick Nack Development.
 
 ### Material Design Tasker Plugin
@@ -12,5 +10,7 @@ Over the years our Tasker plugins have grown and become quite popular. But one c
 
 ### Sound Mode Tasker Plugin
 [Download](https://play.google.com/store/apps/details?id=com.nick.mowen.soundplugin) [Docs](./sound-mode/README.md)
+
+# [Nick Nack Development Website](https://www.nicknackdevelopment.com/)
 
 ### [Other Apps By Nick Nack Development](https://play.google.com/store/apps/dev?id=6410686151642848556&hl=en_US)
