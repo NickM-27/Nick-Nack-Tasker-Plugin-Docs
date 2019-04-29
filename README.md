@@ -11,6 +11,6 @@ Over the years our Tasker plugins have grown and become quite popular. But one c
 ### Sound Mode Tasker Plugin
 [Download](https://play.google.com/store/apps/details?id=com.nick.mowen.soundplugin) [Docs](./sound-mode/README.md)
 
-# [Nick Nack Development Website](https://www.nicknackdevelopment.com/)
+### [Nick Nack Development Website](https://www.nicknackdevelopment.com/)
 
 ### [Other Apps By Nick Nack Development](https://play.google.com/store/apps/dev?id=6410686151642848556&hl=en_US)
