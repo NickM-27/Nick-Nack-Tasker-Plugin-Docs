@@ -14,3 +14,12 @@ Over the years our Tasker plugins have grown and become quite popular. But one c
 ### [Nick Nack Development Website](https://www.nicknackdevelopment.com/)
 
 ### [Other Apps By Nick Nack Development](https://play.google.com/store/apps/dev?id=6410686151642848556&hl=en_US)
+
+# Developed By
+Nick Mowen - <nick@nicknackdevelopment.com>
+
+# Contributions
+Any contributions are welcome! Make a pull request with what you have added / changed and I will let you know if any changes need to be made.
+
+# Donations
+If you would like to donate / contribute to future development, you can [paypal me here](paypal.me/nickmowen)
