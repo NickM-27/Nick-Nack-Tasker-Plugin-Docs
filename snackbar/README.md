@@ -7,6 +7,7 @@ Here get a summary of each Snackbar action and what you can do with it. Full exa
 
 ### Bottom Bar
 Learn about the [bottom bar here](https://material.io/design/components/bottom-navigation.html)
+
 [Example / Walkthrough](./bottom-bar/README.md)
 
 ### Bottom Sheet
