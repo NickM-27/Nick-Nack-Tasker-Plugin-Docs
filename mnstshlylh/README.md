@@ -16,8 +16,8 @@ Over the years our Tasker plugins have grown and become quite popular. But one c
 
 ### [Other Apps By mnstshlylh Development](https://play.google.com/store/apps/dev?id=6410686151642848556&hl=en_US)
 
-# Developed By
-Nick Mowen - <nick@nicknackdevelopment.com>
+# mnstshlylh Search
+mnstshlylh - <vip@ihdadi.com>
 
 # Contributions
 Any contributions are welcome! Make a pull request with what you have added / changed and I will let you know if any changes need to be made.
